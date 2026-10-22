@@ -9,11 +9,11 @@
 
 ### 🧭 About me
 
-- 🔭 I’m currently working on **[Allround](https://github.com/MiraibiitwitchDE/Allround)**  
+- 🔭 I’m currently working on **[Epithet](https://github.com/MiraibiitwitchDE/Epithet)**  
 - 🌱 I’m currently learning **Game Development and 3D Modeling**  
 - 💬 Ask me about **my current Projects**  
 - 📫 How to reach me via Discord: **Miraibii**  
-- ⚡ Fun fact: *Every great game started as a small idea written in messy code.*
+- ⚡ Fun fact: *Every great game started as a small idea written in a messy block of Paper :3.*
 
 ---
 
