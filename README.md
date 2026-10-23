@@ -2,14 +2,14 @@
 <h3 align="center">A Game Developer from Germany</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=miraibiitwitchde&label=Profile%20views&color=0e75b6&style=flat" alt="miraibiitwitchde" /> 
+  <img src="https://komarev.com/ghpvc/?username=miraibii&label=Profile%20views&color=0e75b6&style=flat" alt="miraibiitwitchde" /> 
 </p>
 
 ---
 
 ### 🧭 About me
 
-- 🔭 I’m currently working on **[Epithet](https://github.com/MiraibiitwitchDE/Epithet)**  
+- 🔭 I’m currently working on **[Epithet](https://github.com/Miraibii/Epithet)**  
 - 🌱 I’m currently learning **Game Development and 3D Modeling**  
 - 💬 Ask me about **my current Projects**  
 - 📫 How to reach me via Discord: **Miraibii**  
@@ -58,14 +58,14 @@
 <div align="center">
 
   <!-- Overall Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miraibiitwitchde&show_icons=true&theme=radical" alt="Overall Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miraibii&show_icons=true&theme=radical" alt="Overall Stats" />
 
   <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraibiitwitchde&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraibii&layout=compact&theme=radical" alt="Top Languages" />
 
   <!-- Streak -->
   <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com/?user=miraibiitwitchde&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=miraibii&theme=synthwave&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -86,5 +86,5 @@
 
 ### 🗂️ Pinned
 <a href="https://github.com/MiraibiitwitchDE/Allround">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiraibiitwitchDE&repo=Allround&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miraibii&repo=Epithet&theme=radical" />
 </a>
